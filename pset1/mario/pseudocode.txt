@@ -1,0 +1,8 @@
+ask the user how many columns should your pyramid be
+height must be from 1 through 8
+loop 1-2 until valid response
+insert spacebar strokes equivalent to h-1
+insert counter+1 hashtag strokes if <=h
+jump a line
+loop 3-5 if counter <=h
+if 4 is false, stop

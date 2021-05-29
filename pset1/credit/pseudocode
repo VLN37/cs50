@@ -1,0 +1,14 @@
+American express - 15 digit
+starts with 34 or 37
+
+MasterCard - 16 digit
+starts with 51 52 53 54 55
+
+Visa - 13 or 16 digit
+starts with 4
+
+Card is valid if:
+Sum of every other digit, starting from second last, multiplied by 2
+Plus sum of every remaining digit / every other digit starting from the end
+SUM has to be a multiple of 10
+
